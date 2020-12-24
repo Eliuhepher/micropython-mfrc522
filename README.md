@@ -1,5 +1,5 @@
-# micropython-mfrc522
-(Micro)Python class to access the MFRC522 RFID reader
+# micropython-mfrc522-ESP32
+(Micro)Python class to access the MFRC522 RFID reader, now with support to ESP32 Boards
 
 Basic class to access RFID readers of the type [MFRC522](http://www.nxp.com/documents/data_sheet/MFRC522.pdf). 
 This is basically a re-write of [this](https://github.com/mxgxw/MFRC522-python) Python port for the MFRC522. I 
